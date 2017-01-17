@@ -1,4 +1,4 @@
-def parrot(pollysays="Squawk!")
-  puts pollysays
-  return pollysays
+def parrot(polly="Squawk!")
+  puts polly
+  return polly
 end
